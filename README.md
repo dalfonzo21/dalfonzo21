@@ -37,7 +37,7 @@ Aquí algunos de los proyectos en los que he trabajado:
 Me apasionan muchas cosas. Algunas de ellas son:
 
 - 🌐 Desarrollo web y software
-- 🎨 Diseño gráfico y experiencia de usuario
+- 🎨 Diseño web y experiencia de usuario
 - 📊 Ciencia de datos e inteligencia artificial
 - 🌱 Manejo de bases de datos
 
