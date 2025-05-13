@@ -8,6 +8,7 @@
 - [💻 Proyectos](#-proyectos)
 - [🎯 Intereses](#-intereses)
 - [🛠️ Tecnologías](#-tecnologías)
+  
 ---
 
 ## 👤 Información Personal
@@ -16,6 +17,7 @@
 - **Lugar de residencia:** *[Ecuador, Guayaquil]*
 - **Contacto:** [dalfonzo@espol.edu.ec]
 - **Sitio web:** [Visita mi sitio web](https://dalfonzo21.github.io/dalfonzo21/)
+  
 ---
 
 ## 💻 Proyectos
@@ -38,6 +40,7 @@ Me apasionan muchas cosas. Algunas de ellas son:
 - 🎨 Diseño gráfico y experiencia de usuario
 - 📊 Ciencia de datos e inteligencia artificial
 - 🌱 Manejo de bases de datos
+
 ---
  ## 🛠️ Tecnologías
 
