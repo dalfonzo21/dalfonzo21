@@ -7,7 +7,7 @@
 - [👤 Información personal](#-información-personal)
 - [💻 Proyectos](#-proyectos)
 - [🎯 Intereses](#-intereses)
-
+- [🛠️ Tecnologías](#-tecnologías)
 ---
 
 ## 👤 Información Personal
@@ -22,9 +22,9 @@
 
 Aquí algunos de los proyectos en los que he trabajado:
 
-- 🔧 *[Proyecto de Hotelería HomeStay]* – Este proyecto permite a los usuarios interactuar con un sistema que realiza reservas y pagos de un departamento, casa o villa.
-- 🧠 *[Proyecto de manejo de base de datos]* – Este proyecto ayuda a los dueños de una tienda de morocho a manejar la base de datos de su tienda, para ver ventas y necesidades de productos.
-- 📱 *[Proyecto Venta de carros]* – Este proyecto logra que los usuarios registren sus carros para venderlos y además comprar autos segun criterios como de dinero.
+- 🔧 *[Proyecto de Hotelería HomeStay](https://github.com/MarSalvatore28/DiseniodeSOFTtareapatronesnuevoschain.git)* – Este proyecto en java permite a los usuarios interactuar con un sistema que realiza reservas y pagos de un departamento, casa o villa.
+- 🧠 *[Proyecto de manejo de base de datos](https://github.com/raydan90s/PROYECTOBASEDEDATOS.git)* – Este proyecto en mysql y javafx ayuda a los dueños de una tienda de morocho a manejar la base de datos de su tienda, para ver ventas y necesidades de productos.
+- 📱 *[Proyecto Venta de carros](https://github.com/LastDaniels/ED_P1_Grupo13.git)* – Este proyecto hecho en javafx logra que los usuarios registren sus carros para venderlos y además comprar autos segun criterios como de dinero.
 
 > ✨ ¡Siempre estoy explorando nuevas ideas y tecnologías!
 
@@ -39,5 +39,21 @@ Me apasionan muchas cosas. Algunas de ellas son:
 - 📊 Ciencia de datos e inteligencia artificial
 - 🌱 Manejo de bases de datos
 ---
+ ## 🛠️ Tecnologías
 
+Durante el curso he aprendido a usar diversas tecnologías, herramientas y frameworks que han sido clave en el desarrollo de mis proyectos:
+
+- **HTML & CSS**: Conocimiento básico para estructurar y diseñar sitios web, aún no usados en proyectos.
+- **Java**: Lenguaje de programación orientado a objetos, utilizado para desarrollar los proyectos del curso.
+- **JavaFX**: Framework para crear interfaces gráficas en Java, aplicado en los proyectos desarrollados con NetBeans.
+- **GitHub**: Control de versiones y colaboración, utilizado en todos mis proyectos para organizar el código.
+- **VS Code**: Entorno de desarrollo que usé principalmente para proyectos pequeños y exploraciones en otros lenguajes.
+- **NetBeans**: IDE en el que desarrollé la mayoría de mis proyectos en Java y JavaFX.
+- **Python**: Conocimientos básicos, sin aplicación aún en proyectos, aprendí la lógica de programación.
+- **Angular**: Nivel muy básico; comencé a familiarizarme con el framework y su estructura para hacer páginas web.
+
+
+Estas herramientas me han permitido construir soluciones funcionales, estéticas y bien organizadas.
+
+---
 Gracias por visitar mi sitio. ¡Conectemos pronto! 😊
