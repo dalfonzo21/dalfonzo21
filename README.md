@@ -14,8 +14,6 @@
 ## 👤 Información Personal
 - **Nombre:** *[Diego Alfonzo Yagual]*
 - **Ocupación:** *[Estudiante de Ingeniería en computación]*
-- **Lugar de residencia:** *[Ecuador, Guayaquil]*
-- **Contacto:** [dalfonzo@espol.edu.ec]
 - **Sitio web:** [Visita mi sitio web](https://dalfonzo21.github.io/dalfonzo21/)
   
 ---
